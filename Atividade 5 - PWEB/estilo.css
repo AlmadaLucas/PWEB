@@ -1,0 +1,127 @@
+h3{
+    text-align: center;
+    font-size: 125%;
+    color:rgb(0, 100, 194);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 4%;
+    margin-left: 1%;
+}
+
+
+
+h2{
+    text-align: left;
+    font-size: 200%;
+    background-color: rgba(rgba(194, 27, 27, 0.589));
+    color:rgb(84, 168, 247);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 4%;
+    margin-left: 1%;
+    text-shadow: 2px 1px rgb(0, 53, 102)
+}
+
+h1{
+    text-align: center;
+    font-size: 300%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-color:  rgb(19, 122, 218);
+    width: 100%;
+    border-style:solid;
+    border-width: 10px;
+    margin-left: 1%;
+    background-color: rgba(84, 168, 247, 0.329);
+    color: white;
+    text-shadow: 0px 3px 5px black;
+}
+
+img{
+    display:block;
+    background-color: rgba(84, 168, 247, 0.226);
+    width: 700px;
+    border-radius: 2% 2% 2% 2%;
+    text-shadow: black;
+    border: solid rgb(62, 119, 173);    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    font-size: 180%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(84, 168, 247);
+    color:rgb(255, 255, 255);
+    margin-top: 1%;
+    margin-bottom: 2%;
+    border: solid 3px rgb(0, 126, 243);
+}
+
+footer{
+    margin-top: 4%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(84, 168, 247);
+    background-color: rgba(113, 185, 252, 0.103);
+    font-size: 150%;
+}
+
+article{
+    margin-top: 3%;
+    background-color: rgba(113, 185, 252, 0.103);
+    border: solid rgba(19, 122, 218);
+    border-style: solid;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img:hover{
+    background-color: rgb(174, 195, 238);
+}
+
+nav:hover{
+    background-color: rgb(118, 160, 245);
+}
+
+header#flex{
+    display: flex;
+}
+
+img#icone{
+    width: 11%;
+}
+
+div.flex{
+    margin-bottom: 10%;
+    display: flex;
+}
+
+nav a{
+    padding: 5%;
+    text-decoration:none
+}
+
+a{
+    color:inherit;
+
+}
+
+aside{
+    margin-top: 4%;
+    width: 100%;
+    
+}
+
+div#final{
+    width: 20%;
+}
+
+div#teste{
+    text-align: center;
+    background-color: red;
+    color: rgba(0, 17, 255);
+    border: 2px 2px red;
+    margin-left: 10%;
+}
